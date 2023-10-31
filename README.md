@@ -1,3 +1,4 @@
+USING REACT
 ![image](https://github.com/MeenakshiNS/QRCodeGenerator/assets/130451378/804030ef-a158-4029-be52-0f8d495a2f8f)
 
 
