@@ -1,3 +1,6 @@
+![image](https://github.com/MeenakshiNS/QRCodeGenerator/assets/130451378/804030ef-a158-4029-be52-0f8d495a2f8f)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
